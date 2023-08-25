@@ -1,0 +1,7 @@
+; Photop.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Photop"
+DESCRIPTION  'Photop Windows Dynamic Link Library'
+
+EXPORTS
+    vm_entry @1
